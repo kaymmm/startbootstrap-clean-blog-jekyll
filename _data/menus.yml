@@ -1,0 +1,10 @@
+top:
+  - name: Home
+    href: '/'
+  - name: About
+    href: '/about/'
+footer:
+  - name: Home
+    href: '/'
+  - name: About
+    href: '/#about'
